@@ -2,4 +2,4 @@
 JavaFx project boilerplate. (without e(fx)clipse)
 
 ### Instructions:
-Create a user lib called JavaFx and add the JavaFx jars in lib folder.
+Create a user lib called JavaFx and add lib's folder content as external jars.
